@@ -1,8 +1,6 @@
-🧠 Perceptron Logic Gate Learning (From Scratch)
+ Perceptron Logic Gate Learning 
 
 A custom Perceptron neural network implemented using pure mathematics to learn and classify basic binary logic gate operations.
-
-🚀 Features
 
 Uses vector math from NumPy
 
@@ -25,8 +23,6 @@ Auto-updates weights & bias when predictions are wrong
 Prints final weights, bias, and predictions
 
 Plots learned decision boundaries
-
-✅ Learnable Gates
 
 Gate	Output	Learnable
 
